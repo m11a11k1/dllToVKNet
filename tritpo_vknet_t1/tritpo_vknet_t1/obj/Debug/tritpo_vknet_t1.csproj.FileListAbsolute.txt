@@ -1,0 +1,20 @@
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\tritpo_vknet_t1.exe.config
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\tritpo_vknet_t1.exe
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\tritpo_vknet_t1.pdb
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\HtmlAgilityPack.dll
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\Newtonsoft.Json.dll
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\VkNet.dll
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\HtmlAgilityPack.pdb
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\HtmlAgilityPack.xml
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\Newtonsoft.Json.xml
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\VkNet.pdb
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\VkNet.xml
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\obj\Debug\tritpo_vknet_t1.csprojResolveAssemblyReference.cache
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\obj\Debug\tritpo_vknet_t1.exe
+c:\users\acer-pc\documents\visual studio 2012\Projects\tritpo_vknet_t1\tritpo_vknet_t1\obj\Debug\tritpo_vknet_t1.pdb
+F:\bckp\beforeSSD\Projects\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\tritpo_vknet_t1.exe.config
+F:\bckp\beforeSSD\Projects\tritpo_vknet_t1\tritpo_vknet_t1\obj\Debug\tritpo_vknet_t1.exe
+F:\bckp\beforeSSD\Projects\tritpo_vknet_t1\tritpo_vknet_t1\obj\Debug\tritpo_vknet_t1.pdb
+E:\m11a11k1\stud\кпп+тритпо\tritpo_vknet_t1\tritpo_vknet_t1\bin\Debug\tritpo_vknet_t1.exe.config
+E:\m11a11k1\stud\кпп+тритпо\tritpo_vknet_t1\tritpo_vknet_t1\obj\Debug\tritpo_vknet_t1.exe
+E:\m11a11k1\stud\кпп+тритпо\tritpo_vknet_t1\tritpo_vknet_t1\obj\Debug\tritpo_vknet_t1.pdb
